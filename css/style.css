@@ -177,8 +177,6 @@ header .intro-text {
 }
 
 header .intro-text .intro-lead-in {
-    font-family: "Playfair Display",sans-serif;
-    font-style: italic;
     font-size: 28px;
     line-height: 28px;
     margin-bottom: 25px;
@@ -186,8 +184,6 @@ header .intro-text .intro-lead-in {
 
 @media (min-width: 768px) {
 	header .intro-text .intro-lead-in {
-	    font-family: "Playfair Display",sans-serif;
-	    font-style: italic;
 	    font-size: 40px;
 	    line-height: 40px;
 	    margin-bottom: 25px;
@@ -195,7 +191,6 @@ header .intro-text .intro-lead-in {
 }
 
 header .intro-text .intro-heading {
-    text-transform: uppercase;
     font-weight: 700;
     font-size: 14px;
     line-height: 20px;
@@ -204,7 +199,6 @@ header .intro-text .intro-heading {
 
 @media (min-width: 768px) {
 	header .intro-text .intro-heading {
-	    text-transform: uppercase;
 	    font-weight: 700;
 	    font-size: 20px;
 	    line-height: 26px;
