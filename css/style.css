@@ -191,7 +191,7 @@ header .intro-text .intro-lead-in {
 }
 
 header .intro-text .intro-heading {
-    font-weight: 700;
+    font-weight: 500;
     font-size: 14px;
     line-height: 20px;
     margin-bottom: 25px;
@@ -199,7 +199,7 @@ header .intro-text .intro-heading {
 
 @media (min-width: 768px) {
 	header .intro-text .intro-heading {
-	    font-weight: 700;
+	    font-weight: 500;
 	    font-size: 20px;
 	    line-height: 26px;
 	    margin-bottom: 50px;
